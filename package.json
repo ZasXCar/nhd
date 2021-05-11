@@ -1,0 +1,24 @@
+{
+  "name": "doujin-reader",
+  "version": "1.0.0",
+  "description": "Read nhentai doujin in discord",
+  "main": "main.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "PHANTOM",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "nhentai": "^2.1.1",
+    "nhentai-api": "^3.0.2",
+    "nhentai-js": "^4.0.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "nhentai",
+    "discord",
+    "nodejs",
+    "doujins"
+  ]
+}
